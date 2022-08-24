@@ -26,8 +26,8 @@ int main() {
         cout << "No" << endl;
     }
 
-    free(price);
-    free(amount);
+    delete(price);
+    delete(amount);
     
     return 0;
 }
