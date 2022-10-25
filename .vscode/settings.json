@@ -9,6 +9,7 @@
         "string": "cpp",
         "random": "cpp",
         "limits": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "algorithm": "cpp"
     }
 }
