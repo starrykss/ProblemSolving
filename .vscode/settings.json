@@ -6,6 +6,9 @@
         "ios": "cpp",
         "istream": "cpp",
         "xstring": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp"
     }
 }
