@@ -10,6 +10,7 @@
         "random": "cpp",
         "limits": "cpp",
         "*.tcc": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "new": "cpp"
     }
 }
