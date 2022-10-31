@@ -13,6 +13,11 @@
         "algorithm": "cpp",
         "new": "cpp",
         "vector": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "tuple": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "utility": "cpp"
     }
 }
