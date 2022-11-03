@@ -18,6 +18,8 @@
         "memory": "cpp",
         "functional": "cpp",
         "array": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "typeinfo": "cpp",
+        "numeric": "cpp"
     }
 }
