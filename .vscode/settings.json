@@ -21,6 +21,8 @@
         "utility": "cpp",
         "typeinfo": "cpp",
         "numeric": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp"
     }
 }
