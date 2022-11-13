@@ -7,7 +7,7 @@ int N, x, y;
 vector<pair<int, int>> xy;
 
 bool compare(pair<int, int> a, pair<int, int> b) {
-    if (a.first == b.first) {    // x 좌표와 y 좌표가 같으면
+    if (a.first == b.first) {    // x 좌표가 같으면
         return a.second < b.second;    // y 좌표를 오름차순으로 정렬
     }
     return a.first < b.first;    // x 좌표를 오름차순으로 정렬
