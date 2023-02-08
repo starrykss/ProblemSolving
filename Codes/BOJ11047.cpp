@@ -17,7 +17,6 @@ void Input() {
 int Solution(int k) {
     sort(values.begin(), values.end(), greater<int>());    // 내림차순 정렬
 
-    int choose;
     for (auto i : values) {
         if (i <= k) {
             // cout << "[i] : " << i << " [k / i] : " << k / i << " ";
