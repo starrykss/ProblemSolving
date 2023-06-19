@@ -4,6 +4,7 @@ using namespace std;
 int T, C;
 int quarter, dime, nickel, penny;
 
+
 void Solve() {
     cin >> T;
 
