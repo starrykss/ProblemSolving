@@ -1,6 +1,6 @@
 # Archive for Problem Solving (@[BOJ](https://www.acmicpc.net/))
 
-- A Repository for archiving some codes which were released while solving problems from [Baekjoon Online Judge](https://www.acmicpc.net/).
+- A Repository for archiving some codes which were produced while solving problems from [Baekjoon Online Judge](https://www.acmicpc.net/).
 
 
 <a href="https://www.acmicpc.net/">
