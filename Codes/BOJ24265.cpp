@@ -13,8 +13,8 @@ void Input() {
 
 // MenOfPassion
 void Solution(ULLI n) {
-    // O(n^{2}) -> 최고 차항(n)의 차수가 2이므로 2를 출력한다.
-    cout << n * n << '\n' << 2 << '\n';
+    // O(n(n-1)/2) -> 최고 차항(n)의 차수가 2이므로 2를 출력한다.
+    cout << n * (n - 1) / 2 << '\n' << 2 << '\n';
 }
 
 void Output() {
