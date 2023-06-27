@@ -7,8 +7,8 @@ void Input() {
     cin >> a1 >> a0 >> c >> n0;
 }
 
-bool Solution(int a1, int a0, int c, int n0) {
-    if (a1 * n0 + a0 <= c * n0) {
+bool Solution(int a1, int a0, int c, int n) {
+    if (a1 * n + a0 <= c * n) {
         if (a1 <= c) {
             return true;
         }
