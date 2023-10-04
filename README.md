@@ -1,6 +1,6 @@
 # Archive for Problem Solving
 
-- A Repository for archiving some codes which were produced while solving problems from OJ Sites.
+- A Repository for archiving some codes which were produced while solving problems from Online Judge Sites.
 
 <table>
   <tr>
