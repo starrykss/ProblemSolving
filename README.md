@@ -14,6 +14,11 @@
         <img src="https://blog.kakaocdn.net/dn/b7cyPV/btrAJ8II2sD/HtnKaFoRKw1ycgE2MefTU1/img.png" width="360".>
       </a>
     </td>
+    <td>
+      <a href="https://swexpertacademy.com/">
+        <img src="https://swexpertacademy.com/main/images/sw_img/main_logo.png" width="360".>
+      </a>
+    </td>
   </tr>
 </table>
 
