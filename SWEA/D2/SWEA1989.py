@@ -6,7 +6,7 @@ for test_case in range(1, 1 + T):
     S = str(input())
 
     answer = 1
-    for idx in range(len(S)):    # 정방향
+    for idx in range(len(S)):
         if S[idx] != S[len(S) - idx - 1]:
             answer = 0
             break
