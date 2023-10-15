@@ -8,7 +8,7 @@ for test_case in range(1, 1 + T):
     # (1) 리스트에 요소들 넣기
     matrix = []
     for i in range(N):
-        num_list = list(input().replace(' ', ''))
+        num_list = input().split()
         matrix.append(num_list)
 
     # (2) 행렬 만들기
